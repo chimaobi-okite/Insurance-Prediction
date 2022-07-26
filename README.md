@@ -13,4 +13,4 @@ The model will be based on the building characteristics. The target variable, Cl
 
 
 #### Personal Objective
-To understand how to build custom transformers
+To understand how to build custom sklearn transformers 
